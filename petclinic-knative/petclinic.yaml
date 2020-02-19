@@ -7,4 +7,4 @@ spec:
   template:
     spec:
       containers:
-        - image: index.docker.io/glenioborges/petclinic
+        - image: index.docker.io/glenioborges/petclinic:b1.20200218.202337
