@@ -14,7 +14,7 @@ spec:
         app: petclinic
     spec:
       containers:
-      - image: harbor.hayward.cf-app.com/library/petclinic:latest
+      - image: harbor.hayward.cf-app.com/library/petclinic:b4.20200220.234125
         name: petclinic
         ports:
         - containerPort: 8080
