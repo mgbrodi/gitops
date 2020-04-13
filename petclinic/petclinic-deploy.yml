@@ -14,7 +14,7 @@ spec:
         app: petclinic
     spec:
       containers:
-      - image: index.io/glenioborges/petclinic:b3.20200219.170036
+      - image: index.docker.io/marygabry1508/petclinic:b1.20200413.215026
         name: petclinic
         ports:
         - containerPort: 8080
